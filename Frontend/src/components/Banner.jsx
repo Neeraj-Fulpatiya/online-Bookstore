@@ -7,13 +7,12 @@ function Banner() {
         <div className="w-full order-2 md:order-1 md:w-1/2 mt-12 md:mt-36">
           <div className="space-y-8">
             <h1 className="text-2xl md:text-4xl font-bold">
-              Hello, welcomes here to learn something{" "}
-              <span className="text-pink-500">new everyday!!!</span>
+            Turning pages, igniting imaginations.{" "}
+              <span className="text-blue-500">Dreams Between Covers</span>
             </h1>
             <p className="text-sm md:text-xl">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor,
-              et totam. Tempora amet atque expedita, quae corrupti totam sed
-              pariatur corporis at veniam est voluptas animi!
+             
+Book readers immerse themselves in worlds unknown, finding solace, inspiration, and knowledge within the pages of their beloved books.
             </p>
             <label className="input input-bordered flex items-center gap-2">
               <svg
@@ -28,12 +27,12 @@ function Banner() {
               <input type="text" className="grow" placeholder="Email" />
             </label>
           </div>
-          <button className="btn mt-6 btn-secondary">Get Started</button>
+          <button className="btn bg-blue-500 mt-6 border-none">Get Started</button>
         </div>
         <div className=" order-1 w-full mt-20 md:w-1/2">
           <img
-            src={banner}
-            className="md:w-[550px] md:h-[460px] md:ml-12"
+            src="https://img.freepik.com/free-vector/fisherman-sitting-book-with-spinning-rod-catching-ideas-hand-drawn-sketch-vector-illustration_460848-15509.jpg?t=st=1713264283~exp=1713267883~hmac=cde5d7d1887dfa50b6b0ace737dc3f8d42ef1e59437afc11b873c1db16453dc2&w=740"
+            className="md:w-[550px] md:h-[460px] md:ml-12 rounded-full"
             alt=""
           />
         </div>

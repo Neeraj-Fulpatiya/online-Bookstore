@@ -87,19 +87,13 @@ function Course() {
         <div className="mt-28 items-center justify-center text-center">
           <h1 className="text-2xl  md:text-4xl">
             We're delighted to have you{" "}
-            <span className="text-pink-500"> Here! :)</span>
+            <span className="text-blue-500"> Here! :)</span>
           </h1>
           <p className="mt-12">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro,
-            assumenda? Repellendus, iste corrupti? Tempore laudantium
-            repellendus accusamus accusantium sed architecto odio, nisi expedita
-            quas quidem nesciunt debitis dolore non aspernatur praesentium
-            assumenda sint quibusdam, perspiciatis, explicabo sequi fugiat amet
-            animi eos aut. Nobis quisquam reiciendis sunt quis sed magnam
-            consequatur!
+          Step into a realm where every page holds a new adventure, a fresh insight, and a timeless escape. Our collection of books invites you to wander through worlds both real and imagined, to explore the depths of human emotion, and to discover the boundless possibilities of the written word. Lose yourself in stories that inspire, inform, and ignite your imagination. Welcome to a sanctuary where every book is a doorway to endless wonder and discovery.
           </p>
           <Link to="/">
-            <button className="mt-6 bg-pink-500 text-white px-4 py-2 rounded-md hover:bg-pink-700 duration-300">
+            <button className="mt-6 bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-pink-700 duration-300">
               Back
             </button>
           </Link>
