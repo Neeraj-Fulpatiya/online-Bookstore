@@ -8,7 +8,9 @@ enthusiasts to explore various genres, authors, and titles.
 <h3> Features</h3>
 
 • User Authentication: Secure login and signup functionality.</br>
-• Browse Books: View a wide collection of books with details such as title, author, genre, and price.</br>
+• Browse Books: View a wide collection of books with details such as title, author, genre, and price .</br>
+• Payment Gateway :Added a secure payment method(Razorpay) for the convenient way of purchasing .</br>
+
 
 <h3> Tech Stack </h3></br>
 
